@@ -4,14 +4,13 @@ I am ML/DL specialist, PhD in physics and experienced professional scientist
 
 I have managed 10+ scientific projects from start to completion
 
-Sometimes I write scientific papers, my [h-index is 10](https://www.scopus.com/authid/detail.uri?authorId=36011327900), I have 5 patents
+Sometimes I write scientific papers, my [h-index is 10](https://www.scopus.com/authid/detail.uri?authorId=36011327900), I have [6 patents](https://patents.google.com/?inventor=трощиев+сергей)
 
 I like teaching and making complex stuff easier to understand
 
 <br>
 
 📫 How to reach me:
-
 
 E-mail: [sergey.troschiev@gmail.com](mailto:sergey.troschiev@gmail.com)
 
