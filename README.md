@@ -16,6 +16,8 @@ E-mail: [sergey.troschiev@gmail.com](mailto:sergey.troschiev@gmail.com)
 
 Telegram: [https://t.me/sergey_doc](https://t.me/sergey_doc)
 
+LinkedIn: [https://www.linkedin.com/in/sergey-troschiev/](https://www.linkedin.com/in/sergey-troschiev/)
+
 
 <!--
 **troschiev/troschiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
